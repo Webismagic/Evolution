@@ -1,0 +1,12 @@
+<xml version="1.0" encoding="UTF-8">
+    <taxons>
+        <taxon parent="type" nom="Eucaryote" classification="Domaine" niveau="1">leurs cellules ont un noyau délimité par une double membrane ainsi que d'autres organites comme les mitochondries.</taxon>
+        <taxon parent="Eucaryote" nom="Metazoaire" classification="Règne" niveau="2">multicellulaires et hétérotrophes, qui se nourrissent de matière organique (Animalia)</taxon>
+        <taxon parent="Metazoaire" nom="Chordé" classification="Embranchement" niveau="3">formé d’animaux à symétrie bilatérale (Bilatériens), qui possèdent une lamelle cartilagineuse située sur le côté dorsal de l'animal, forme la plus élémentaire d'un endosquelette (squelette interne)</taxon>
+        <taxon parent="Chordé" nom="Vertébré" classification="Sous-Embranchement" niveau="4">possèdent un squelette interne composé d'un crâne ainsi que d'une colonne vertébrale</taxon>
+        <taxon parent="Vertébré" nom="Tétrapode" classification="Super-classe" niveau="5">animaux vertébrés gnathostomes dont le squelette comporte habituellement deux paires de membres et dont la respiration est normalement pulmonaire</taxon>
+        <taxon parent="Tétrapode" nom="Mammifère" classification="Classe" niveau="6">présence de fourrures (excepté pour certains mammifères marins), d'une oreille moyenne comportant trois os, d'un néocortex et de glandes mammaires</taxon>
+        <taxon parent="Mammifère" nom="Euthérien" classification="Infra-classe" niveau="7">Mammifères placentaires caractérisés par le fait qu'ils accouchent des juvéniles (grâce au placenta) par contraste avec les marsupiaux qui accouchent de larves ou les monotrèmes qui pondent des œufs.</taxon>
+        <taxon parent="Eucaryote" nom="Plante" classification="Règne" niveau="2">Caractéristiques des plantes</taxon>
+    </taxons>
+</xml>
